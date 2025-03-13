@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Vinayakraddi Giriyammanavar! 👋
 
-<!--
-**vinayakg18/vinayakg18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Software Developer | Cloud & Backend Engineer | AWS Certified**
+🎓 **MS in IT (UNC Charlotte, 2024) | BE in CS (BEC Bagalkot)**
+📌 **Charlotte, NC | Open to relocation**
 
-Here are some ideas to get you started:
+I specialize in **Java, Spring Boot, AWS, and Cloud-based applications**. Passionate about solving real-world problems through technology and innovation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **Currently Learning**: Advanced cloud computing, DevOps, and scalable backend architecture.
+📫 **How to reach me**: [Email](mailto:vinayakraddi19@gmail.com) | [LinkedIn](https://www.linkedin.com/in/vinayakraddi-giriyammanavar/) | [GitHub](https://github.com/vinayakg18)
+
+- **Languages**: Java, Python, C++, C#, JavaScript, PHP
+- **Frameworks**: Spring Boot, Hibernate, Node.js, React, Angular
+- **Databases**: MySQL, MongoDB, PostgreSQL, Redis
+- **Cloud & DevOps**: AWS, Docker, Kubernetes, Jenkins, CI/CD, Git
+- **Other**: Data Structures & Algorithms, Microservices, Agile
+
+- [AWS Certified Developer - Associate (2024)](https://www.credly.com/badges/5d0475e7-8709-437e-9ce0-39b89aae9a08/public_url)
+- [AWS Certified Data Engineer - Associate (2024)](https://www.credly.com/badges/149c9c4d-c817-4223-a9fa-b53b43ed011c/public_url)
