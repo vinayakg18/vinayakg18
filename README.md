@@ -7,7 +7,7 @@
 I specialize in **Java, Spring Boot, AWS, and Cloud-based applications**. Passionate about solving real-world problems through technology and innovation.
 
 🌱 **Currently Learning**: Advanced cloud computing, DevOps, and scalable backend architecture.
-📫 **How to reach me**: [Email](mailto:vinayakraddi19@gmail.com) | [LinkedIn](https://www.linkedin.com/in/vinayakraddi-giriyammanavar/) | [GitHub](https://github.com/vinayakg18)
+📫 **How to reach me**: [Email](mailto:vinayakraddi19@gmail.com) | [LinkedIn](https://www.linkedin.com/in/vinayakraddi-giriyammanavar/)
 
 - **Languages**: Java, Python, C++, C#, JavaScript, PHP
 - **Frameworks**: Spring Boot, Hibernate, Node.js, React, Angular
